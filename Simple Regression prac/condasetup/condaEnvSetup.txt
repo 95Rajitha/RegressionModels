@@ -1,0 +1,7 @@
+
+>>>> to see the created environments
+conda info --envs
+
+>>>> to activate an environment
+conda actovate myenv
+
